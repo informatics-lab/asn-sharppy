@@ -4,4 +4,4 @@ RUN bash -c "source activate py2 && \
                 conda install -y PySide"
 
 RUN bash -c "source activate py2 && \
-                pip install git+git://github.com/sharppy/SHARPpy.git@v1.3.0-Xenia-beta"
+                pip install git+git://github.com/sharppy/SHARPpy.git@47ab1a683a631506be9770ad4b68e36e1268a5b7"
